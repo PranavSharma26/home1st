@@ -1,3 +1,4 @@
 # home1st
-For practicing at home
-My name is Pranav Sharma
+For practicing at home.
+<br>
+Author - Pranav Sharma
